@@ -5639,3 +5639,17 @@ select {
         margin-left: 0px;
     }
 }
+
+.rmi-component span{
+    width: 50%;
+    height: fit-content;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-size: 25px;
+    left: 10%;
+    position:absolute; 
+    top: 50%;
+    z-index: 99;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
